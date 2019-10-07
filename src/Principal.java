@@ -13,7 +13,7 @@ public class Principal {
 
 		
 		//3.- Apply method overloading.
-		//Create one method that prints a sequence of numbers 1points
+		//Create one method that prints a sequence of numbers 1points.
 		Metodos obj2 = new Metodos(1);
 		obj2.secuencia();
 		obj2.secuencia(10);

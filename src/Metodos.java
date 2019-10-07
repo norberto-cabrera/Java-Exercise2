@@ -5,7 +5,7 @@ import java.util.List;
 public class Metodos {
 
 	//1.- Constructor that will initialize a class variable.	
-	//Declare a variable at class level any type 1points	
+	//Declare a variable at class level any type 1points.	
 	private int a;
 	private int b;
 
